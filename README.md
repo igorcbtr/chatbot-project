@@ -22,8 +22,7 @@ The main goal is to demonstrate basic request-response communication between a f
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/chatbot.git
-   cd chatbot
+   https://github.com/igorcbtr/chatbot-project.git
 2. Install dependencies:
 
 npm install   # or pip install -r requirements.txt
